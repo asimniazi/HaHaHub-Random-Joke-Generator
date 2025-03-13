@@ -20,10 +20,12 @@ HaHaHub is a fun and interactive web application that generates random jokes bas
 ![image](https://github.com/user-attachments/assets/cdfe2da9-0bf6-47f6-a6f2-e2a146ed3490)  
 ![image](https://github.com/user-attachments/assets/ee21aa53-a032-4508-8a29-c5cc6e21b91c)  
 ![image](https://github.com/user-attachments/assets/acc4be44-d65f-42ce-8b2e-ad8008a22f69)  
+![image](https://github.com/user-attachments/assets/f83bf176-abcc-409d-a7c5-ac2f11e983e9)
+![image](https://github.com/user-attachments/assets/24ea6970-c60d-42ac-aad3-67b2c84c68a1)
 
 ## Repository
 This project is hosted on GitHub. Check it out here:  
-[HaHaHub Repository](https://github.com/yourusername/HaHaHub)
+[HaHaHub Repository](https://github.com/asimniazi/HaHaHub-Random-Joke-Generator)
 
 ## Installation
 Follow these steps to set up HaHaHub on your local machine:
